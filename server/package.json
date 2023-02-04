@@ -4,7 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-   "serve": "npn run start"
+    "serve": "nodemon server"
   },
   "keywords": [],
   "author": "",
